@@ -70,7 +70,7 @@ NOTES:
 </a>
 ```
 
-- **Add caption under an image"
+- **Add caption under an image"**
 ```html
 <figure>
   <img src="image.jpg" alt="A description of the image">
