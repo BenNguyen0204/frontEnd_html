@@ -4,8 +4,8 @@
 
 [Basic:](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
 
-##HTML:
-### Basic
+
+## Basic
 
 - **Enclosing:**  
 ```html
@@ -43,19 +43,19 @@ As shorthand, it is acceptable to write this as follows:
 
 
 - **Omitting quotes around attribute values**
-      + Attribute values MUST be inside quotes.
+Attribute values MUST be inside quotes.
 
-      + Can either be "" or ''
+Can either be "" or ''
 ```html
 <a href="https://www.mozilla.org/">favorite website</a>
 <a href="https://www.mozilla.org/" title="The Mozilla homepage">favorite website</a>
 ```
-      "title" will show the Tooltip text on hover
+"title" will show the Tooltip text on hover
 
 
 - **Whitespace**
   
-      + Both are the same
+Both are the same
 ```html
 <p id="noWhitespace">Dogs are silly.</p>
 
